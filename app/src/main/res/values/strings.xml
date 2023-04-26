@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Valorant Quiz</string>
+    <string name="register">to register click here !</string>
+    <string name="quiz">Quiz</string>
+    <string name="choix1">Choix 1</string>
+    <string name="choix2">Choix 2</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="next">Next</string>
+    <string name="fin">Done</string>
+    <string name="logout">Logout</string>
+</resources>
